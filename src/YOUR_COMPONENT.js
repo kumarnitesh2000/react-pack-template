@@ -1,1 +1,11 @@
-// Replace this file with your actual React component
+import React from 'react';
+
+function YOUR_COMPONENT({name}) {
+    return (
+        <div>
+            hello {name}
+        </div>
+    );
+}
+
+export default YOUR_COMPONENT;

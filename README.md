@@ -24,3 +24,5 @@
 	1. Run `npm publish`, and your React component will be uploaded to npm! You can find it at https://www.npmjs.com/package/[YOUR PACKAGE NAME] or your npm profile.
 
 1. To update your package, make sure you remember to increment the `version` in `package.json`, and then perform Step #5 again.
+
+

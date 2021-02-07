@@ -1,6 +1,6 @@
 {
-    "name": "YOUR_PACKAGE_NAME",
-    "version": "0.1.0",
+    "name": "react-pack-template",
+    "version": "0.1.2",
     "description": "",
     "main": "./lib/YOUR_COMPONENT.js",
     "license": "MIT",
